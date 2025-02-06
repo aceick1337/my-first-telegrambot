@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import telebot
 
 
-bot = telebot.TeleBot(token='6678854041:AAEaRdFNPH1QeGQ2PW6mrSYL7kOYEioH4cY')
+bot = telebot.TeleBot(token='')
 
 
 try:
